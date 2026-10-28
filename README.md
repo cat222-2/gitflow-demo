@@ -1,1 +1,1 @@
-# gitflow-demo
+# to jest repozytorium gitflow
